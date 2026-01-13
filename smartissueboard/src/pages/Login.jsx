@@ -129,7 +129,7 @@ export default function Login() {
 
         {/* Footer */}
         <div className="text-center mt-6">
-          <p className="text-white/40 text-xs">Smart Issue Board 2024</p>
+          <p className="text-white/40 text-xs">Smart Issue Board 2026</p>
         </div>
       </div>
     </div>
